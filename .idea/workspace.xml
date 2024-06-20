@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0441fe47-e88b-4c40-ac04-1fe68ab15644" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0441fe47-e88b-4c40-ac04-1fe68ab15644" name="Changes" comment="Question 1 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/demo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ca/georgiancollege/demo/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,11 +88,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718913257453</updated>
-      <workItem from="1718913258489" duration="3756000" />
+      <workItem from="1718913258489" duration="5331000" />
     </task>
+    <task id="LOCAL-00001" summary="Question 1 complete">
+      <option name="closed" value="true" />
+      <created>1718917042480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718917042480</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Question 1 complete">
+      <option name="closed" value="true" />
+      <created>1718917103691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718917103691</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Question 1 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 1 complete" />
   </component>
 </project>
